@@ -4,3 +4,5 @@
 
 /packages
 /.vs
+/Dynamic_Word_Web/bin
+/Dynamic_Word_Web/obj/Debug
